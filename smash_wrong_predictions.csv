@@ -1,0 +1,6 @@
+fighter,weight,run_speed,air_speed,fall_speed,full_hop,high_tier,actual,predicted
+Shulk,97,1.672,1.113,1.58,33.5,1,1,0
+Samus,108,1.654,1.103,1.33,37.0,1,1,0
+Dark Samus,108,1.654,1.103,1.33,37.0,1,1,0
+R.O.B.,106,1.725,1.134,1.6,38.0,1,1,0
+Falco,82,1.619,0.977,1.8,50.51,0,0,1
